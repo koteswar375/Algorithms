@@ -9,7 +9,7 @@ https://koteswar375.github.io/Algorithms/
 
 The editor supports only supports JavaScript and Python for now. 
 
-# Getting Started with Create React App
+## Getting Started with React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
