@@ -1,6 +1,7 @@
 # Algorithms
-![logo](https://deloitte.wsj.com/cio/files/2017/10/2.-Algorithmic-risk-FEATURE-IMAGE.png)
-(https://img.shields.io/github/license/koteswar375/Algorithms)
+![logo](https://www.annalect.com/wp-content/uploads/2017/08/20170802_data_algorithms_brain_post.png)
+
+![LICENSE](https://img.shields.io/github/license/koteswar375/Algorithms)
 
 A stash of algorithms that I have encountered and practiced in one place with solutions and notes containing explanations and insights. (Still in very early stage!)
 
