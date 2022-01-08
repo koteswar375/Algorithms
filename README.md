@@ -1,5 +1,5 @@
 # Algorithms
-![logo](https://raw.githubusercontent.com/koteswar375/Algorithms/master/dsa/20170802_data_algorithms_brain_post.png)
+![logo](https://raw.githubusercontent.com/koteswar375/Algorithms/master/dsa/logo.png)
 
 ![LICENSE](https://img.shields.io/github/license/koteswar375/Algorithms)
 
