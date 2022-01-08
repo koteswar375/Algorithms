@@ -1,0 +1,16 @@
+.problem {
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    font-size: calc(2vmin);
+    min-height: 95vh;
+    align-items: stretch;
+}
+
+.pd {
+    flex-grow: 1 !important;
+}
+
+.editor {
+    flex-grow: 1 !important;
+}
