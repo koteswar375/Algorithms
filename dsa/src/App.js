@@ -1,5 +1,6 @@
 import './App.css';
 import Problem from './components/Problem';
+import Editor from './components/Editor';
 
 function App() {
   return (
@@ -7,8 +8,9 @@ function App() {
       <header className="App-header">
             Algorithms
       </header>
-      <main>
+      <main className="d-flex">
         <Problem></Problem>
+        <Editor></Editor>
       </main>
     </div>
   );

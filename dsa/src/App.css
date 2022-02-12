@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
 }
 
 
@@ -11,4 +11,13 @@
   border-bottom: 1px solid white;
   font-size: calc(5px + 2vmin);
   color: white !important;
+}
+
+.code {
+  background-color: #f7f9fa;
+  color: #546e7a;
+  padding: 2px 4px;
+    font-size: 13px;
+    border-radius: 3px;
+    font-family: monospace;
 }

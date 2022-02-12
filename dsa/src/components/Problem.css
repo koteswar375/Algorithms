@@ -1,16 +1,32 @@
 .problem {
     display: flex;
+    flex-direction: column;
     color: white;
-    justify-content: space-around;
+    /* justify-content: space-between; */
     font-size: calc(2vmin);
     min-height: 95vh;
+    max-width:50%;
     align-items: stretch;
+    padding:5px;
 }
 
-.pd {
-    flex-grow: 1 !important;
+
+.title {
+    font-size: 14px;
+    font-weight: 600;
 }
 
-.editor {
-    flex-grow: 1 !important;
+.description {
+    font-size: 14px;
+}
+
+.difficulty {
+    font-size: 12px;
+    font-weight: 500;
+    margin-right: 15px;
+    color: rgb(239, 108, 0);
+}
+
+.heading {
+    border-bottom: 1px solid rgb(238, 238, 238);
 }
